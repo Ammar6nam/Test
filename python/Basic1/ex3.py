@@ -1,0 +1,15 @@
+x1=123
+x2=type(x1)
+print(x1,"is type of",x2,sep=" ")
+y1=43.23
+y2=type(y1)
+print(y1,"is type of",y2,sep=" ")
+a1=(4-1j)
+a2=type(a1)
+print(a1,"is type of",a2,sep=" ")
+b1="How are you?"
+b2=type(b1)
+print(b1,"is type of",b2,sep=" ")
+c1=True
+c2=type(c1)
+print(c1,"is type of",c2,sep=" ")
